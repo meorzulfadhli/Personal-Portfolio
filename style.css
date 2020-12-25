@@ -1,0 +1,50 @@
+body
+    {
+    	background-color: #ffe6ff;
+    }
+
+h1 
+    {
+    	background-color: #df6589;
+    	font-family: 'Bungee', cursive;
+    	font-size: 60px;
+    	color: #3c1053;
+    	border: solid;
+    	border-color: black;
+    	border-radius: 30px;
+
+    }
+
+h2 
+    {
+     	background-color: pink;
+     	font-family: 'Bungee', cursive;
+     	font-size: 30px;
+     	color: black;
+     	border: solid;
+     	border-color: black;
+     	border-radius: 15px;
+    }
+
+p   {
+	    font-family: 'Langar', cursive;
+	    font-size: 30px;
+	    color: black;
+    }
+
+a:link, a:visited
+    {
+    	background-color: black;
+    	color: pink;
+    	padding: 15px;
+    	text-align: center;
+    	text-decoration: none;
+    	display: inline-block;
+    	border-radius: 25px
+    }
+
+a:hover, a:active
+    {
+    	background-color: pink;
+    	color: black;
+    }
